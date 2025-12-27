@@ -1,4 +1,5 @@
-##Natural Gas Seasonal Regression & Storage Pricing
+Natural Gas Seasonal Regression & Storage Pricing
+-------------------------------------
 
 # Overview
 This project models natural gas prices using a seasonal regression and applies the model to value a storage contract under realistic operational constraints.
