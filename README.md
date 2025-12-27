@@ -6,9 +6,9 @@ This project models natural gas prices using a seasonal regression and applies t
 The focus is on interpretability, not black-box forecasting.
 
 ## Data
-Nat_Gas.csv
-Dates: monthly dates
-Prices: natural gas spot prices
+- Nat_Gas.csv
+- Dates: monthly dates
+- Prices: natural gas spot prices
 
 ## Method
 Prices are modeled as a linear time trend + monthly seasonality using OLS.
