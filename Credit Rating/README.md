@@ -24,4 +24,4 @@ FICO scores are discretized into ratings using three methods:
    - MSE-optimized
    - Log-likelihood (bucket-level PD)
 
-Lower rating = better credit quality.
+   Lower rating = better credit quality.
