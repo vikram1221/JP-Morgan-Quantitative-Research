@@ -15,13 +15,13 @@ The focus is on transparent, interpretable credit modeling, not black-box ML.
 ## Components:
 
 1. Probability of Default & Expected Loss
-- Logistic regression (statsmodels)
-- Outputs borrower-level PD and Expected Loss
+   - Logistic regression (statsmodels)
+   - Outputs borrower-level PD and Expected Loss
 
 2. Credit Rating Maps
 FICO scores are discretized into ratings using three methods:
-- Quantile (equal-frequency)
-- MSE-optimized
-- Log-likelihood (bucket-level PD)
+   - Quantile (equal-frequency)
+   - MSE-optimized
+   - Log-likelihood (bucket-level PD)
 
 Lower rating = better credit quality.
